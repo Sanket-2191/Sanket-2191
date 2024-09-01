@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Sanket-2191
-- 👀 I’m interested in Data analytics
-- 🌱 I’m currently learning Data visualisation with Python, Tableau, Power-Bi and also DSA along-side
-- 💞️ I’m looking to collaborate on any ANALYTICS PROJECT
+- 👋 Hi, I’m @Sanket-2191 Full-Stack Web Developer.
+- 👀 I’m much interested in Backend dev than frontend.
+- 🌱 I’m currently learning ReactJS, with Nodejs, ExpressJS,Mongodb, Mongoose already practiced.
+- 💞️ I’m looking to collaborate on any MERN Stack or FullStack PROJECT
 - 📫 How to reach me Mail-id : sanketpadole1@gmail.com
 
 <!---
