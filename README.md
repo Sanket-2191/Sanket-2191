@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sanket-2191 Full-Stack Web Developer.
-- 👀 I’m much interested in Backend dev than frontend.
+- 👀 I’m interested more in Backend dev .
 - 🌱 I’m currently learning ReactJS, with Nodejs, ExpressJS,Mongodb, Mongoose already practiced.
 - 💞️ I’m looking to collaborate on any MERN Stack or FullStack PROJECT
 - 📫 How to reach me Mail-id : sanketpadole1@gmail.com
